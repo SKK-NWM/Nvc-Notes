@@ -22,6 +22,7 @@
 <details>
 <summary><b>2. Two parts of NVC:</b></summary>
   
-> + **Expressing** honestly through the four components    
+> + **Expressing** honestly through the four components
+>   
 > + **Receiving** empathically through the four components
 </details>
