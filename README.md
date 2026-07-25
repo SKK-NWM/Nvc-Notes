@@ -26,7 +26,6 @@
 
 
 
-
 <details>
 <summary><b>2. Two parts of NVC</b></summary>
   
@@ -52,8 +51,11 @@ depth in their personal relationships, and still others to build effective
 relationships at work or in the political arena. Worldwide, NVC is used to
 mediate disputes and conflicts at all levels.
 </details>
-
-
 </details>
 
-
+<details><summary><h3>Communication That Blocks Compassion</h3></summary>
+  <details><summary><b>Life-alienating communication</b></summary>
+    
+  >Certain ways of communication that alienate us from our natural state of compassion
+  
+  </details>
