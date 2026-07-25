@@ -55,9 +55,9 @@ mediate disputes and conflicts at all levels.
 
 <details><summary><b>COMMUNICATION THAT BLOCKS COMPASSION</b></summary>
 <br>
-<details><summary><b>Types of Life-alienating communication:</b></summary>
+<details><summary><b>Life-alienating communication:</b></summary>
   
->Certain ways of communication that alienate us from our natural state of compassion (Life-alienating communication)
+>Certain ways of communication that alienate us from our natural state of compassion
 </details>
 <details><summary><b>1. Moralistic Judgments</b></summary>
 
