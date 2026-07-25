@@ -4,7 +4,7 @@
 > NVC stands for Nonviolent Communication, developed by Marshall Rosenberg.
 
 <details>
-<summary><b>1. NVC Process</b></summary>
+<summary><b>1. NVC Process - The four components</b></summary>
 
 > **1. Observations** — The concrete actions we observe that affect our well-being
 >
@@ -20,7 +20,7 @@
 
 
 <details>
-<summary><b>2. Two parts of NVC:</b></summary>
+<summary><b>2. Two parts of NVC</b></summary>
   
 > + **Expressing** honestly through the four components
 >   
