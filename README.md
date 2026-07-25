@@ -3,18 +3,14 @@
 <h2></h2>
 
 
-
 <br>
 <br>
 
 <details>
-<summary><b>Giving From the Heart</b></summary>
-
-
-  
+<summary><b>GIVING FROM THE HEART</b></summary>
+<br>
 <details>
 <summary><b>1. NVC Process - The four components</b></summary>
-&nbsp;
   
 > **1. Observations** — The concrete actions we observe that affect our well-being
 >
@@ -54,14 +50,15 @@ depth in their personal relationships, and still others to build effective
 relationships at work or in the political arena. Worldwide, NVC is used to
 mediate disputes and conflicts at all levels.
 </details>
+<br>
 </details>
 
-<details><summary><b>Communication That Blocks Compassion</b></summary>
-    
+<details><summary><b>COMMUNICATION THAT BLOCKS COMPASSION</b></summary>
+<br>
+<details><summary><b>Types of Life-alienating communication:</b></summary>
+  
 >Certain ways of communication that alienate us from our natural state of compassion (Life-alienating communication)
-
-<b>Types of Life-alienating communication:</b>
-
+</details>
 <details><summary><b>1. Moralistic Judgments</b></summary>
 
 >**Definition**: A form of life-alienating communication where we judge people as wrong or bad when their actions don't align with our values.
