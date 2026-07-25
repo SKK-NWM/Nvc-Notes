@@ -1,11 +1,14 @@
 # NVC Notes
+<h3>"What I want in my life is compassion, a flow between myself and others based on a mutual giving from the heart."</h3>  —Marshall B. Rosenberg, PhD
+<h2></h2>
 
-> [!NOTE]
-> NVC stands for Nonviolent Communication, developed by Marshall Rosenberg.
 
+
+<br>
+<br>
 
 <details>
-<summary><h3>Giving From the Heart</h3></summary>
+<summary><h2>Giving From the Heart</h2></summary>
 
 
   
@@ -53,9 +56,21 @@ mediate disputes and conflicts at all levels.
 </details>
 </details>
 
-<details><summary><h3>Communication That Blocks Compassion</h3></summary>
-  <details><summary><b>Life-alienating communication</b></summary>
+<details><summary><h2>Communication That Blocks Compassion</h2></summary>
+<details><summary><b>Life-alienating communication</b></summary>
     
-  >Certain ways of communication that alienate us from our natural state of compassion
-  
-  </details>
+>Certain ways of communication that alienate us from our natural state of compassion
+
+</details>
+<details><summary><b>Types of Life-alienating communication</b></summary>
+
+><details><summary><b>Moralistic Judgments</b></summary>
+>imply wrongness or badness on the part of people who don’t act in
+>harmony with our values. Such judgments are reflected in language: “The
+>problem with you is that you’re too selfish.” “She’s lazy.” “They’re prejudiced.”
+>“It’s inappropriate.” Blame, insults, put-downs, labels, criticism,
+>comparisons, and diagnoses are all forms of judgment.
+
+</details>
+</details>
+</details>
