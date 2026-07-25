@@ -8,7 +8,7 @@
 <br>
 
 <details>
-<summary><h4>Giving From the Heart</h4></summary>
+<summary><b>Giving From the Heart</b></summary>
 
 
   
@@ -56,7 +56,7 @@ mediate disputes and conflicts at all levels.
 </details>
 </details>
 
-<details><summary><h4>Communication That Blocks Compassion</h4></summary>
+<details><summary><b>Communication That Blocks Compassion</b></summary>
     
 >Certain ways of communication that alienate us from our natural state of compassion (Life-alienating communication)
 
