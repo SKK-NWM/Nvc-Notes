@@ -14,7 +14,7 @@
 >
 > **4. Requests** — The concrete actions we request in order to enrich our lives
 >
-> *Flow: **See** → **Feel** → **Need** → **Ask***
+> *Flow:&nbsp; **See** → **Feel** → **Need** → **Ask***
 </details>
 
 
