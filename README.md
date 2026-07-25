@@ -3,9 +3,13 @@
 > [!NOTE]
 > NVC stands for Nonviolent Communication, developed by Marshall Rosenberg.
 
+
+<details>
+<summary><h3>Giving From the Heart</h3></summary>
 <details>
 <summary><b>1. NVC Process - The four components</b></summary>
-
+&nbsp;
+  
 > **1. Observations** — The concrete actions we observe that affect our well-being
 >
 > **2. Feelings** — How we feel in relation to what we observe
@@ -18,11 +22,11 @@
 </details>
 
 
-
 <details>
 <summary><b>2. Two parts of NVC</b></summary>
   
 > + **Expressing** honestly through the four components
 >   
 > + **Receiving** empathically through the four components
+</details>
 </details>
