@@ -57,20 +57,19 @@ mediate disputes and conflicts at all levels.
 </details>
 
 <details><summary><h2>Communication That Blocks Compassion</h2></summary>
-<details><summary><b>Life-alienating communication</b></summary>
     
->Certain ways of communication that alienate us from our natural state of compassion
+>Certain ways of communication that alienate us from our natural state of compassion (Life-alienating communication)
 
-</details>
-<details><summary><b>Types of Life-alienating communication</b></summary>
+<b>Types of Life-alienating communication:</b>
 
-><details><summary><b>Moralistic Judgments</b></summary>
->imply wrongness or badness on the part of people who don’t act in
->harmony with our values. Such judgments are reflected in language: “The
->problem with you is that you’re too selfish.” “She’s lazy.” “They’re prejudiced.”
->“It’s inappropriate.” Blame, insults, put-downs, labels, criticism,
->comparisons, and diagnoses are all forms of judgment.
+<details><summary><b>1. Moralistic Judgments</b></summary>
 
-</details>
+>**Definition**: A form of life-alienating communication where we judge people as wrong or bad when their actions don't align with our values.
+>
+>**Example phrases:**\
+>"The problem with you is that you're too selfish."\
+>"She's lazy."\
+>"They're prejudiced."\
+>"It's inappropriate."
 </details>
 </details>
