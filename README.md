@@ -61,12 +61,21 @@ mediate disputes and conflicts at all levels.
 </details>
 <details><summary><b>1. Moralistic Judgments</b></summary>
 
->**Definition**: A form of life-alienating communication where we judge people as wrong or bad when their actions don't align with our values.
+>**Definition:** Language that disconnects us from our own and other's feelings and needs.
+>Moralistic judgments occur when we label people as wrong or bad because their actions don't align with our own values, rather than naming the unmet need directly.
 >
->**Example phrases:**\
->"The problem with you is that you're too selfish."\
->"She's lazy."\
->"They're prejudiced."\
+>**Example phrases:**<br>
+>"The problem with you is that you're too selfish."<br>
+>"She's lazy."<br>
+>"They're prejudiced."<br>
 >"It's inappropriate."
+
+>-**Each phrase evaluates the person, not the need, framing a mismatch in values as a moral failing.**
+
+>**Broader Example:**<br>
+>**Judgment:**  "Violence is bad. People who kill others are evil."<br>
+>**Need-based:**  "I am fearful of the use of violence to resolve conflicts; I value resolving human conflicts through other means."
+
 </details>
 </details>
+<br>
