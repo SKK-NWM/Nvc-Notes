@@ -79,5 +79,33 @@ mediate disputes and conflicts at all levels.
 >**Need-based:**  "I am fearful of the use of violence to resolve conflicts; I value resolving human conflicts through other means."
 
 </details>
+<details><summary><b>2. Making Comparisons</b></summary>
+  
+>**Core idea:** Comparing yourself to others is a form of judgment that breeds misery and blocks compassion — for both self and others.
+>
+>**Source:** Dan Greenburg, How to Make Yourself Miserable — uses humor to expose comparison's hidden power over us.
+>
+>**Premise:** Want a miserable life? Learn to compare yourself to other people.
+
+>**Exercise 1 – Physical Beauty**
+>
+>- Shows full-length images of an "ideal" man and woman (contemporary media standards)
+>- Reader takes own body measurements, compares to the "ideal" numbers superimposed on the images
+>- Told to dwell on the differences<br>
+>
+>**Result:** instant misery — the exercise works exactly as promised
+
+>**Exercise 2 – Achievement (the "real" test; Exercise 1 was just a warm-up)**
+
+>- **Rationale given:** physical beauty is superficial — achievement matters more
+>- **Gimmick:** names pulled at random from the phone book
+>- **First name:** Wolfgang Amadeus Mozart
+>- **Lists languages Mozart spoke and major works composed by his teens**
+>- **Reader told to compare their own current achievements to what Mozart had done by age 12**
+>
+>**Again told to dwell on the differences**
+
+>**Takeaway:** Even in this playful, exaggerated form, comparative thinking shows how effectively it undermines compassion — both toward oneself and toward others.
 </details>
-<br>
+</details>
+
