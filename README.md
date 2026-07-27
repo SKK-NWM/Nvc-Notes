@@ -70,7 +70,9 @@ mediate disputes and conflicts at all levels.
 >"They're prejudiced."<br>
 >"It's inappropriate."
 
->-**Each phrase evaluates the person, not the need, framing a mismatch in values as a moral failing.**
+>- **Each phrase evaluates the person, not the need, framing a mismatch in values as a moral failing.**
+>- **Blame, insults, put-downs, labels, criticism, comparisons, and diagnoses are all forms of judgment.**
+
 
 >**Broader Example:**<br>
 >**Judgment:**  "Violence is bad. People who kill others are evil."<br>
