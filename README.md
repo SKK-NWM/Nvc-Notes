@@ -107,5 +107,63 @@ mediate disputes and conflicts at all levels.
 
 >**Takeaway:** Even in this playful, exaggerated form, comparative thinking shows how effectively it undermines compassion — both toward oneself and toward others.
 </details>
+<br>
 </details>
 
+</details>
+<details><summary><b>TAKING RESPONSIBILITY FOR OUR FEELINGS</b></summary>
+<br>
+<details><summary><b>The Needs at the Roots of Feelings:</b></summary>
+  
+>**The following are some of the basic human needs we all
+share:**
+>- **Autonomy**
+>1. to choose one’s dreams, goals, values
+>2. to choose one’s plan for fulfilling one’s dreams, goals, values
+>- **Celebration**
+>1. to celebrate the creation of life and dreams fulfilled
+>2. to celebrate losses: loved ones, dreams, etc. (mourning)
+>- **Integrity**
+>1. authenticity
+>2. creativity
+>3. meaning
+>4. self-worth
+>- **Interdependence**
+>1. acceptance
+>2. appreciation
+>3. closeness
+>4. community
+>5. consideration
+>6. contribution to the enrichment of life (to exercise one’s power by giving that which contributes to life)
+>7. emotional safety
+>8. empathy
+>9. honesty (the empowering honesty that enables us to learn from our limitations)
+>10. love
+>11. reassurance
+>12. respect
+>13. support
+>14. trust
+>15. understanding
+>16. warmth
+>- **Play**
+>1. fun
+>2. laughter
+>- **Spiritual Communion**
+>1. beauty
+>2. harmony
+>3. inspiration
+>4. order
+>5. peace
+>- **Physical Nurturance**
+>1. air
+>2. food
+>3. movement, exercise
+>4. protection from life-threatening forms of life: viruses, bacteria, insects, predatory animals
+>5. rest
+>6. sexual expression
+>7. shelter
+>8. touch
+>9. water
+</details>
+</details>
+</details>
